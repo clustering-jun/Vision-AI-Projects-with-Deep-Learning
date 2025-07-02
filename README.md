@@ -1,2 +1,26 @@
 # Vision AI Projects with Deep Learning
-이미지 딥러닝 기반 비전 AI 실무 프로젝트 과정
+## Practical Vision AI Projects Based on Image Deep Learning
+**Summer Semester, July 1 – August 26, 2025**
+
+---
+### Curriculum
+
+**Week 1: Fundamentals of Image Processing**
+- Orientation
+- The Evolution of Computer Vision
+- Introduction to OpenCV
+
+**Week 2: Fundamentals of Deep Learning**
+- Supervised Learning and Linear Regression (Analytical Solution)
+- Binary and Multiclass Classification
+- Gradient Descent in PyTorch
+- Convolutional Operations in Neural Networks
+- Batch Normalization and Pooling Techniques
+
+
+<br>
+<br>
+
+---
+### Acknowledgment
+This educational program is hosted and operated by the Ministry of Science and ICT, the Korea Association for ICT Promotion (KAIT), and the National IT Industry Promotion Agency (NIPA). With the support of these organizations, I was able to participate in a valuable learning opportunity in the field of Computer Vision. I sincerely appreciate the support that made this possible.
