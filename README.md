@@ -1,6 +1,6 @@
 # Vision AI Projects with Deep Learning
 ## Practical Vision AI Projects Based on Image Deep Learning
-**Summer Semester, July 1 – August 26, 2025**
+**Summer Semester**
 
 ---
 ### Curriculum
