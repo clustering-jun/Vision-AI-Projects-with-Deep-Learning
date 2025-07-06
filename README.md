@@ -9,6 +9,7 @@
 - Orientation
 - The Evolution of Computer Vision
 - Introduction to OpenCV
+  - Face Recognition-Based Character Overlay Project
 
 **Week 2: Fundamentals of Deep Learning**
 - Supervised Learning and Linear Regression (Analytical Solution)
