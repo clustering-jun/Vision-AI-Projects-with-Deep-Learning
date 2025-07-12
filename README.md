@@ -1,5 +1,6 @@
 # Vision AI Projects with Deep Learning
-## Practical Vision AI Projects Based on Image Deep Learning
+## 딥러닝 기반 비전 AI 프로젝트 실습
+
 **Summer Semester**
 
 ---
